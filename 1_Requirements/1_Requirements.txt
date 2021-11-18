@@ -9,3 +9,4 @@ it contains the following details
 - Date 
 - Timing
 - Seat Available
+- Seat Required
