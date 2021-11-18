@@ -2,7 +2,7 @@
 Movieticket Booking enables the user to book the Tickets Anywhere
 it contains the following details
 
-## Requirements to Book
+## Requirements
 - Movie Name
 - Movie Language
 - Price of Ticket
