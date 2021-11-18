@@ -15,4 +15,9 @@ it contains the following details
 - AC /non AC
 - Dolby Atoms Support
 - Big Screen
+## SWOT Analysis
+- Strength - Book ticket Anywhere Wihout coming Theature
+- Weakness - Seats Get Occupied
+- Opportunity - Makes ticket Handy
+- Threats - Server Down sometimes
 
