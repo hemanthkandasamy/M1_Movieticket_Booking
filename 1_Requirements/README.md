@@ -10,3 +10,9 @@ it contains the following details
 - Timing
 - Seat Available
 - Seat Required
+## Cost and Features
+- RS 200/ person
+- AC /non AC
+- Dolby Atoms Support
+- Big Screen
+
