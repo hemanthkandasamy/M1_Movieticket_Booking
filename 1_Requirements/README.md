@@ -18,17 +18,18 @@ Online Movie Ticket Booking System is a website to provide the customers facilit
 - Invoice
 - Location of Theature
 ## Cost and Features
-- RS 200/ person
-- AC /non AC Hall 
-- Dolby Atoms Support
-- Making a queue for buying movie tickets is simply waste of precious time 
+- The Ticket Price for Individual is Rs 200/-
+- Online Booking has internet handling charges
+- Theature having AC /non AC Hall 
+- You can Experience Dolby Atoms Support
+- Making a queue for buying movie tickets is simply waste of precious time
 - And if you are planning to watch the most awaited film of the year, don’t even hope to get a ticket. This is where online movie ticketing platforms come in.
-- Enable payments through debit cards, credit cards, net banking and quick cash option
+- Enable payments through debit cards, credit cards, net banking and quick cash option.
 ## SWOT Analysis
 | content | Description |
 | --------- | --------------- |
 | Strength  | Book ticket Anywhere Without Visiting Theature |
-| Weakness  | Seats Already Occupied  |
+| Weakness  | Seats Already Occupied, Internet handling charges  |
 | Opportunity  | Makes ticket Handy  |
 | Threats | Server Down sometimes |
 
