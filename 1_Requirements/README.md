@@ -46,7 +46,7 @@ Where
 - It takes place anywhere wherever we have need for Movie Ticket Booking options.
 
 How
-- It works 
+- It works same Procedure what are we used in Theature to book tickets.
 
 ## Detail Requirements
 __High Level Requirements__
