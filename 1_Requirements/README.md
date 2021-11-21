@@ -2,6 +2,9 @@
 Movieticket Booking enables the user to book the Tickets Anywhere
 it contains the following details
 
+## Introduction 
+Online Movie Ticket Booking System is a website to provide the customers facility to book tickets for a movie online and to gather information about the movies and theaters. Customer needs to register at the site to book tickets to the movie .Customer will get a ticket with Basic details of Movie, Timing, Screen Number, etc.
+
 ## Requirements
 - Movie Name
 - Movie Language
@@ -11,11 +14,16 @@ it contains the following details
 - Seat Available
 - Seat Required
 - Screen Number
+- Payment Options
+- Invoice
+- Location of Theature
 ## Cost and Features
 - RS 200/ person
-- AC /non AC
+- AC /non AC Hall 
 - Dolby Atoms Support
-- Big Screen
+- Making a queue for buying movie tickets is simply waste of precious time 
+- And if you are planning to watch the most awaited film of the year, don’t even hope to get a ticket. This is where online movie ticketing platforms come in.
+- Enable payments through debit cards, credit cards, net banking and quick cash option
 ## SWOT Analysis
 | content | Description |
 | --------- | --------------- |
