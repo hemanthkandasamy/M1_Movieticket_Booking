@@ -1,7 +1,6 @@
 
-* Booking  stages  with 4 stages
-*
-*/
+* Booking  stages  with  stages
+
 include<stdio.h>
 #include<stdlib.h>
 #include"moviedetails.c"
