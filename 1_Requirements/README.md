@@ -15,7 +15,6 @@ Online Movie Ticket Booking System is a website to provide the customers facilit
 - Seat Required
 - Screen Number
 - Payment Options
-- Invoice
 - Location of Theature
 ## Cost and Features
 - The Ticket Price for Individual is Rs 200/-
