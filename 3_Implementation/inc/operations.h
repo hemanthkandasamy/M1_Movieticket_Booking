@@ -1,5 +1,3 @@
-
-
 * Booking  stages  with  stages
 
 include<stdio.h>
