@@ -24,19 +24,19 @@ Enable payments through debit cards, credit cards, net banking and quick cash op
 | Threats | Server Down sometimes |
 
 ## 4W’s and 1’H
-Who
+Who-
  This project makes benefit to Everyone to book tickets without queue
  
-What
+What-
  The main aim of the project is  to reduce Reserving ticket at Theature
  
 When
-This Will happen When Movie Relase time
+This- Will happen When Movie Relase time
 
-Where
+Where-
 It takes place anywhere wherever we have need for Movie Ticket Booking options.
 
-How
+How-
 It works same Procedure what are we used in Theature to book tickets.
 
 ## Detail Requirements
