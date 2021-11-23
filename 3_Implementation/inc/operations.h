@@ -1,5 +1,3 @@
-* Booking  stages  with  stages
-
 include<stdio.h>
 #include<stdlib.h>
 #include"moviedetails.c"
@@ -7,34 +5,72 @@ include<stdio.h>
 #include<strings.h>
 
 /**
-* Selection of seat row and movie price
+* Selection of movie price
 */
 
-int **seat,choice,price=200;
-
+int changeprize(int);
 /**
-*Reservation for paticular seat using calloc
+*Reservation for paticular seat using user choice
 */
   
-void reservation(int *array,int price,int selection
+void reservation(int *,int,int );
 
 /**
- *cancel the ticket and Unreserved
+ * @brief ticket
+ * 
+ * @return cancel 
  */
-  
-void cancel(int *array)
+cancel the ticket and Unreserved
+
+
+void cancel(int *);
   
 /**
 Detials of the canceled Ticket
 */
                  
-void details(void)
+void records(int);
                  
 /**
 Detials of the Movie and return
 */                 
   
-int movie(void)
+int cmovie(void);
 
-                 
-#return
+/**
+ * @brief Ticket1
+ * 
+ * @param choice 
+ * @param name 
+ * @param id2 
+ */
+void ticket1(int choice,char name[10],int id2);
+
+/**
+ * @brief Ticket2
+ * 
+ * @param choice 
+ * @param name 
+ * @param id2 
+ */
+
+void ticket2(int choice,char name[10],int id2);
+
+
+/**
+ * @brief 
+ * 
+ * @param choice 
+ * @param name 
+ * @param id2 
+ */
+void ticket3(int choice,char name[10],int id2);
+
+
+#return;
+
+
+         
+
+
+
