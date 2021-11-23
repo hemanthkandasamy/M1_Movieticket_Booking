@@ -8,7 +8,7 @@ int count=0;
 int id2=1000;
 int main()
 {
-	int **seat,choice,price=500,slection,i;
+	int **seat,price=500,slection,i;
 	seat=(int **)calloc(101,sizeof(int *));
 	for (i=0;i<3;i++)
 		*(seat+i)=(int *)calloc(101,sizeof(int ));
@@ -152,7 +152,7 @@ void ticket1(int choice,char name[10],int id2,int price)
 }
 void details(void)
 {
-	int i;
+	int;
 	char pass[10],pak[10]="pass";
 	printf("Enter the password to see details: ");
 	scanf("%s",&pass);
