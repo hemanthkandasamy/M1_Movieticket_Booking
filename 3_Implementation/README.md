@@ -5,5 +5,5 @@ Folder        | description
 --------------| ----------------------------------------------
 `inc`         | All header files
 `src`         | Main source code 
-`test`        | All source code and data for testing purposes
+`test`        |All source code and data for testing purposes
 
