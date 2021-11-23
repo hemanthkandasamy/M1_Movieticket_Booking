@@ -15,8 +15,8 @@ Enable payments through debit cards, credit cards, net banking and quick cash op
 ## SWOT Analysis
 | content | Description |
 | --------- | --------------- |
-| Strength  | Book ticket Quickly|
-| Weakness  | Seats Already Occupied |
+| Strength  | Book ticket easy|
+| Weakness  | Seats gets Occupied |
 | Opportunity  | Makes ticket Handy  |
 | Threats | Server Down sometimes |
 
