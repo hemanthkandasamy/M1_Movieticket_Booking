@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/main.yml/badge.svg)](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/main.yml)
 
-[![Linux C/C++ CI](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/makefile.yml/badge.svg)](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/makefile.yml)
+[![Linux C/C++ CI](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/Linux_c-ccp.yml/badge.svg)](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/Linux_c-ccp.yml)
 
 [![Windows C/C++ CI](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/windows_c-ccp.yml)
 
