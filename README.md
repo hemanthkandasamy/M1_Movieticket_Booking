@@ -6,6 +6,7 @@
 
 [![Linux C/C++ CI](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/makefile.yml/badge.svg)](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/makefile.yml)
 
+[![Windows C/C++ CI](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/hemanthkandasamy/M1_Movieticket_Booking/actions/workflows/windows_c-ccp.yml)
 
 ## M1_Movieticket_Booking
 In this project, Movie ticket booking is purchasing and canceling the ticket and seat selection is developed for the user
