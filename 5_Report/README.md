@@ -50,3 +50,13 @@ __LOW LEVEL REQUIREMENTS__
 | LLR1 | User Inputs | To Check the options they choose |
 | LLR2 | List of Movies | To  reservation |
 | LLR3 | Multifile Approach | To reduce the code structure |
+
+
+# Implementation
+
+## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for Movie Ticket booking
+`test`        | All source code and data for testing purposes
